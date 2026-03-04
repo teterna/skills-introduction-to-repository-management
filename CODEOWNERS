@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @teterna
+/src/backend/database.py      @teterna
+/src/backend/routers/auth.py  @teterna
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @teterna
